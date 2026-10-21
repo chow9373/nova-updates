@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Nova 正式版更新</title>
+    <link>https://github.com/chow9373/nova-updates/releases</link>
+    <language>zh-cn</language>
+    <item>
+      <title>Nova 1.2.3</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://chow9373.github.io/nova-updates/v1.2.3.html</sparkle:releaseNotesLink>
+      <pubDate>Wed, 21 Oct 2026 08:27:46 +0000</pubDate>
+      <enclosure url="https://github.com/chow9373/nova-updates/releases/download/v1.2.3/Nova-1.2.3-build6.zip" sparkle:edSignature="jfcRj4gBzWIkddfn47GjXxXyyry00WmwU+zV20WnunvtnydwoTtfisAtZdnOtFFdmm914N0mcrnkIGHQeXAaDw==" length="7203805" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
