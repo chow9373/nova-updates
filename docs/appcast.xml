@@ -5,6 +5,15 @@
     <link>https://github.com/chow9373/nova-updates/releases</link>
     <language>zh-cn</language>
     <item>
+      <title>Nova 1.2.4</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://chow9373.github.io/nova-updates/v1.2.4.html</sparkle:releaseNotesLink>
+      <pubDate>Sat, 24 Oct 2026 10:05:55 +0000</pubDate>
+      <enclosure url="https://github.com/chow9373/nova-updates/releases/download/v1.2.4/Nova-1.2.4-build7.zip" sparkle:edSignature="00xiI/ix/MfhW2LCLkbJ3l3MgL0m/r7WExzDIjCZ+CvTxAq7pVes1bOkJl2EUMuZl8eQybrzM1A7+vVnlWotDA==" length="7223721" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Nova 1.2.3</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
